@@ -3,7 +3,7 @@
 # Miniguia de Estudo: 🌎🍃♻️ Taxonomia Sustentável Brasileira
 
 ---
-**📑Contexto e 🎯Objetivos:**<br> O tema de estudo escolhido é a **Taxonomia Sustentável Brasileira (TBS)** os objetivos são resumos para aprimorar e recapitular os termos técnicos envolvidos no contexto de sustentabilidade (♻️) dentro dos três pilares (ecônomico, social e ambiental).
+**📑Contexto e 🎯Objetivos:**<br> O tema de estudo escolhido é a **Taxonomia Sustentável Brasileira (TSB)** os objetivos são resumos para aprimorar e recapitular os termos técnicos envolvidos no contexto de sustentabilidade (♻️) dentro dos três pilares (ecônomico, social e ambiental).
 
 ---
 **🗂️Curadoria de Fontes:**<br> Lista de fontes com upload no NotebookLM.
