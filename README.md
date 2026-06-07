@@ -1,6 +1,6 @@
 # Treinando-uma-IA-de-Aprendizagem-Explore-o-poder-do-NotebookLM
 
-# Miniguia de Estudo: 🌎🍃♻️
+# Miniguia de Estudo: 🌎🍃♻️ Taxonomia Sustentável Brasileira (TBS)
 
 ---
 **📑Contexto e 🎯Objetivos:**<br> O tema de estudo escolhido é a **Taxonomia Sustentável Brasileira (TBS)** os objetivos são resumos para aprimorar e recapitular os termos técnicos envolvidos no contexto de sustentabilidade (♻️) dentro dos três pilares (ecônomico, social e ambiental).
