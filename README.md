@@ -112,7 +112,7 @@ Embora a taxonomia forneça os critérios, ela se alinha a metas nacionais e int
 Para que uma atividade seja considerada sustentável, ela deve cumprir o critério de **contribuição substancial** a um destes objetivos, **não causar dano significativo** (*Do No Significant Harm*) aos demais e respeitar as **salvaguardas mínimas** socioambientais.
 
 ---
-Fazer uma lista com os principais termos técnicos. (Um glossário com os principais conceitos aprendidos.)
+Fazer uma lista com os principais termos técnicos. (um glossário com os principais conceitos aprendidos)
 ---
 Com base nos documentos apresentados, os principais termos técnicos que compõem o universo da **Taxonomia Sustentável Brasileira (TSB)** são detalhados abaixo:
 
